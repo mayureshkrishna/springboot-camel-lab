@@ -17,7 +17,7 @@ On Windows, if you don't already have GIT Bash installed, download [GIT Bash her
 Clone Code in a working directory using
 
 ```
-$ https://github.com/mayureshkrishna/spring-boot-camel.git
+$ https://github.com/mayureshkrishna/springboot-camel-lab
 ```
 
 Once you have cloned the code - Lets edit Application.java to add the REST Configuration and Methods:
